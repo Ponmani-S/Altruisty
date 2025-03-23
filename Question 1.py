@@ -1,4 +1,4 @@
-Question 1 
+'''Question 1 
 
 Rahul is a stock trader who aims to maximize his profit by buying and selling stocks. However, he follows a strict strategy:
 He buys a stock only once and sells it only once to maximize his profit. He can only buy before he sells (i.e., the buying day must be earlier than the selling day). 
@@ -17,7 +17,7 @@ Example 2:
 
 Input: 4 10 9 8 6 
 Output: 0 
-Explanation: Since the prices keep decreasing, Rahul does not buy any stock. Hence, the maximum profit is 0.
+Explanation: Since the prices keep decreasing, Rahul does not buy any stock. Hence, the maximum profit is 0.'''
 
 Soltuion:
 
