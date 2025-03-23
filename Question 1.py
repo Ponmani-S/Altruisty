@@ -17,9 +17,9 @@ Example 2:
 
 Input: 4 10 9 8 6 
 Output: 0 
-Explanation: Since the prices keep decreasing, Rahul does not buy any stock. Hence, the maximum profit is 0.'''
+Explanation: Since the prices keep decreasing, Rahul does not buy any stock. Hence, the maximum profit is 0.
 
-Soltuion:
+Soltuion:'''
 
 n,m=int(input()),0
 a=list(map(int,input().split()))
